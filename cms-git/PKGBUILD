@@ -14,7 +14,7 @@ depends=('fpc' 'postgresql' 'postgresql-client' 'python2' 'setuptools'
   'python2-netifaces' 'python2-crypto' 'python2-pytz' 'python2-six'
   'iso-codes' 'shared-mime-info' 'python2-beautifulsoup3' 'python2-mechanize'
   'python2-mock' 'python2-requests' 'python2-werkzeug' 'python2-gevent'
-  'python2-coverage' 'libcgroup' 'sgi-stl-doc' 'patool')
+  'python2-coverage' 'libcgroup' 'sgi-stl-doc' 'patool-py2')
 makedepends=('git')
 provides=('cms')
 conflicts=('cms')
